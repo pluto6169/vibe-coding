@@ -1,0 +1,12 @@
+
+Title: Deep Learning for Medical Image Analysis: A Comprehensive Survey
+Authors: Sarah Jenkins, Alexander Vance, and Elena Rostova
+Abstract: This paper presents a detailed survey of deep learning architectures applied to medical image segmentation, classification, and anomaly detection. We evaluate convolutional networks, vision transformers, and hybrid models across benchmark datasets.
+Keywords: Deep Learning, Medical Imaging, Neural Networks, Computer Vision, Artificial Intelligence
+Published Date: 2024
+Publisher: IEEE Transactions on Medical Imaging
+Journal: IEEE Transactions on Medical Imaging
+DOI: 10.1109/TMI.2024.1048291
+
+1. Introduction
+Deep learning has revolutionized computer vision in medical diagnostics...
